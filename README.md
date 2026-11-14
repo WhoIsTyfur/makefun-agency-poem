@@ -11,14 +11,14 @@ The output:
 ```
 Planchette
 
-At nine, at Dana's, with the lights off,
+At nine, at Dana's, lights off,
 four of us touched the plastic heart
 and asked who was there. It moved,
 slow, then sure, and spelled a name
 none of us would own. Each swore
 she hadn't pushed. Each believed the rest.
-There was one way to find out:
-lift your hand and see if it stopped.
+There was one way to know:
+lift your hand, and see if it stopped.
 Nobody ever lifted.
 
 Now I start an email and it finishes,
