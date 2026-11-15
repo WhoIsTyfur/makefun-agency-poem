@@ -1,5 +1,9 @@
 # Shorthand — a poem about agency
 
+[![make.fun bounty](https://make.fun/badge/agency-poem-01.svg)](https://make.fun/bounty/agency-poem-01)
+[![rank](https://make.fun/badge/agency-poem-01/WhoIsTyfur/makefun-agency-poem/rank.svg)](https://make.fun/bounty/agency-poem-01)
+[![reward](https://make.fun/badge/agency-poem-01/WhoIsTyfur/makefun-agency-poem/reward.svg)](https://make.fun/bounty/agency-poem-01)
+
 Entry for the make.fun bounty [Write the best poem about agency](https://make.fun/bounty/agency-poem-01).
 
 ## What it does
