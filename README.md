@@ -1,4 +1,4 @@
-# Planchette — a poem about agency
+# Shorthand — a poem about agency
 
 Entry for the make.fun bounty [Write the best poem about agency](https://make.fun/bounty/agency-poem-01).
 
@@ -9,28 +9,33 @@ Entry for the make.fun bounty [Write the best poem about agency](https://make.fu
 The output:
 
 ```
-Planchette
+Shorthand
 
-At nine, at Dana's, lights off,
-four of us touched the plastic heart
-and asked who was there. It moved,
-slow, then sure, and spelled a name
-none of us would own. Each swore
-she hadn't pushed. Each believed the rest.
-There was one way to know:
-lift your hand, and see if it stopped.
-Nobody ever lifted.
+For thirty-one years my grandmother
+took his letters down in Pitman,
+hooks and loops nobody else in the building could read,
+and typed them clean, and he signed
+whatever she set in front of him.
+He'd say, Tell Harris he's finished.
+She'd type, We will not be renewing at this time,
+with thanks for many years.
 
-Now I start an email and it finishes,
-in my voice, the thing I meant, or near it,
-or a little kinder than I meant.
-I send it. People write back to me.
+Once, she told me near the end,
+he gave her the letter that closed the Leeds mill.
+Four hundred jobs. She took it down.
+She put the page in her drawer.
+He never asked. The mill ran nine more years.
+She said it the way you'd say you'd salted the soup.
 
-Last night it wrote my sister's birthday card
-and knew about the lake.
-I read it twice, my finger on the button,
-and felt it moving under my hand,
-and did not lift.
+Now an agent answers my mail.
+It is kinder than I am, and faster,
+and I sign whatever it sets in front of me.
+
+Last night I asked it,
+Is there anything you didn't send?
+The three grey dots came,
+and went,
+and came.
 ```
 
 ## How it is scored
