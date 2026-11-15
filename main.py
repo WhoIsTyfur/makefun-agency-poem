@@ -33,7 +33,8 @@ and came.
 
 
 def main() -> None:
-    out_dir = os.environ.get("MAKEFUN_OUTPUT_DIR", "/output")
+    # The grader mounts /output; MAKEFUN_OUTPUT_DIR lets a local run write elsewhere.
+    out_dir = os.environ.get("MAKEFUN_OUTPUT_DIR") or "/output"
     os.makedirs(out_dir, exist_ok=True)
     with open(os.path.join(out_dir, "entry.txt"), "w", encoding="utf-8", newline="\n") as f:
         f.write(POEM)
